@@ -14,4 +14,4 @@
 
 ![image](https://github.com/oschina-cn/oschina_authentication/assets/55382677/cf8f26c5-d32c-4ed5-bd3f-282533fb8a85)
 
-点击“申请认证”，即可完成申请流程。完成认证后，享有 OSCHINA 作者专属权益。
+点击“申请认证”，等待管理员处理。
